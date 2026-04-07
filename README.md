@@ -91,3 +91,8 @@ Python → ESP32 via HTTP:  -----> http://<ESP32-IP>/cmd?val=F&dur=300
 Where:
 val = Command (F, B, L, R, S)
 dur = Movement duration (ms)
+
+
+
+
+video link: https://drive.google.com/file/d/1gbdGRA2RnO2OwvhmtwmmBTKa7kvUvG9d/view?usp=drivesdk
