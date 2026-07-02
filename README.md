@@ -94,5 +94,3 @@ dur = Movement duration (ms)
 
 
 
-
-video link: https://drive.google.com/file/d/1gbdGRA2RnO2OwvhmtwmmBTKa7kvUvG9d/view?usp=drivesdk
